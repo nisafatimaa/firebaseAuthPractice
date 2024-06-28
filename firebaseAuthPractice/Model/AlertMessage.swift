@@ -7,6 +7,7 @@
 
 import UIKit
 
+//for alert
 struct AlertMessage {
     
     static func showAlertMessage (_ title : String, _ message : String,_ vc : UIViewController) {
